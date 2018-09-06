@@ -1,0 +1,15 @@
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\bin\Debug\OneToManyWFApp.exe.config
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\bin\Debug\OneToManyWFApp.exe
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\bin\Debug\OneToManyWFApp.pdb
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\bin\Debug\EntityFramework.dll
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\bin\Debug\EntityFramework.xml
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.csprojAssemblyReference.cache
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.Form1.resources
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.Properties.Resources.resources
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.csproj.GenerateResource.cache
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.csproj.CoreCompileInputs.cache
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.csproj.CopyComplete
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.exe
+C:\Users\anton.belenik\source\repos\OneToManyWFApp\OneToManyWFApp\obj\Debug\OneToManyWFApp.pdb
